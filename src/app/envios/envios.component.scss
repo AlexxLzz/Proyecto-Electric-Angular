@@ -1,0 +1,30 @@
+
+#texto{
+	padding-top: 2em;
+font: bold 30px Tahoma;
+width: 100%;
+align-items: center;
+
+
+}
+#centro{
+
+	font: bold 30px Tahoma;
+/*	width: 100%;
+	padding-left: 1050px;*/
+	}
+
+#main-container{
+	margin: 150px auto;
+	margin-top: 3em;
+	width: 60%;
+}
+
+th, td{
+	padding: 20px;
+}
+
+tr:hover td{
+	background-color: #c7dbf9;
+	color: white;
+}

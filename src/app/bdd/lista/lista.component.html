@@ -1,0 +1,41 @@
+<app-navbar></app-navbar>
+<div class="center" style="height: 85%;" *ngIf="loading">
+    <app-loading></app-loading>
+</div>
+<div class="center mt-4" *ngIf="!loading">
+    <div class="btn-group" role="group" aria-label="Basic example">
+        <button type="button" class="btn btn-secondary" (click)="consulta('')">Todo</button>
+        <button type="button" class="btn btn-secondary" (click)="consulta('cables')">Cables</button>
+        <button type="button" class="btn btn-secondary" (click)="consulta('audio')">Audio</button>
+        <button type="button" class="btn btn-secondary" (click)="consulta('seguridad')">Seguridad</button>
+        <button type="button" class="btn btn-secondary" (click)="consulta('iluminacion')">Iluminación</button>
+    </div>
+</div>
+<div class="container mt-4" *ngIf="!loading">
+    <table class="table tb">
+        <tr class="table-info">
+            <th></th>
+            <th>Nombre</th>
+            <th>Categoría</th>
+            <th>Precio</th>
+            <th>Descripción</th>
+            <th>
+                <button type="button" class="btn btn-sm btn-info" routerLink="/alta" *ngIf="admin">Agregar</button>
+            </th>
+        </tr>
+        <tbody *ngFor="let producto of productos">
+            <tr *ngIf="producto.categoria == condicion || condicion == ''">
+                <td><img src={{src+producto.img+src2}} alt="" style="max-width: 150px;"></td>
+                <td>{{producto.nombre}}</td>
+                <td>{{producto.categoria}}</td>
+                <td>${{producto.precio}}</td>
+                <td>{{producto.descripcion}}</td>
+                <td class="center"><strong role="button" [routerLink]="['/editar/', producto.id]" *ngIf="admin"> Editar </strong></td>
+                <td class="center"><strong (click)="eliminarProducto(producto.id)" role="button" *ngIf="admin"> Eliminar </strong></td>
+            </tr>
+        </tbody>
+    </table>
+    
+</div>
+
+
