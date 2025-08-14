@@ -1,0 +1,129 @@
+{
+  "configVersion": 1,
+  "timestamp": 1755157310685,
+  "index": "/Proyecto-Electric-Angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Proyecto-Electric-Angular/favicon.ico",
+        "/Proyecto-Electric-Angular/index.html",
+        "/Proyecto-Electric-Angular/main.bccd76d7b280a623.js",
+        "/Proyecto-Electric-Angular/manifest.webmanifest",
+        "/Proyecto-Electric-Angular/polyfills.614030cf455115d1.js",
+        "/Proyecto-Electric-Angular/runtime.56f83c9eacd08874.js",
+        "/Proyecto-Electric-Angular/scripts.ae04d07883bbf047.js",
+        "/Proyecto-Electric-Angular/styles.7e36cadaffd1a694.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Proyecto-Electric-Angular/assets/icons/icon-128x128.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-144x144.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-152x152.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-192x192.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-384x384.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-512x512.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-72x72.png",
+        "/Proyecto-Electric-Angular/assets/icons/icon-96x96.png",
+        "/Proyecto-Electric-Angular/assets/icons/logo.png",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/1.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/2.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/3.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/alexa.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/baseTv.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/bocina.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/foco.jpg",
+        "/Proyecto-Electric-Angular/assets/img/Ejemplos/temp.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/audifonos-c.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/audifonos-collar.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/audifonos-confort.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/audifonos-sport.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/caja-fuerte.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/camaras.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/ethernet.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/extencion.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/foco-led.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/foco-sensor.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/hdmi.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/timbre.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/tira-led.jpg",
+        "/Proyecto-Electric-Angular/assets/img/productos/undefined.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Proyecto-Electric-Angular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/Proyecto-Electric-Angular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/Proyecto-Electric-Angular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/Proyecto-Electric-Angular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/Proyecto-Electric-Angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/Proyecto-Electric-Angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/Proyecto-Electric-Angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/Proyecto-Electric-Angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/Proyecto-Electric-Angular/assets/icons/logo.png": "3cab97fc5cbbe0b491843b0eb58aaf40f2765039",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/1.jpg": "abc2ab313a3cd39610efb498539c0c08515d4457",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/2.jpg": "322f77eec78a5569f42185518988b6b39248a62e",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/3.jpg": "ba30ebc2448759be55f4e864b0b37c29d77ac0ab",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/alexa.jpg": "a6b1cb5e59e46bb790d5ebc3896488c96640ca79",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/baseTv.jpg": "1ed193680dc3b3b5693b49abc34a1357706c34dc",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/bocina.jpg": "db12631182493a00437401b795ff103e7858e2fa",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/foco.jpg": "f2aab7b4fb4eda4214b50bf23fb1d01b297e4e63",
+    "/Proyecto-Electric-Angular/assets/img/Ejemplos/temp.jpg": "80cd3b40acecf7199c407338e34b134d3c79a222",
+    "/Proyecto-Electric-Angular/assets/img/productos/audifonos-c.jpg": "8fd22027e1151bfeb018682e12d7be13f16cfc06",
+    "/Proyecto-Electric-Angular/assets/img/productos/audifonos-collar.jpg": "d0d0d8ac87bc52a5c109c2a8f48c9763ba637195",
+    "/Proyecto-Electric-Angular/assets/img/productos/audifonos-confort.jpg": "fc8b18646831932c010fb4c91f80f57f28612888",
+    "/Proyecto-Electric-Angular/assets/img/productos/audifonos-sport.jpg": "bcb289bde888ec9896a3f7ac46108c725fda9065",
+    "/Proyecto-Electric-Angular/assets/img/productos/caja-fuerte.jpg": "207c0583768aca94ac0875912b4bd449fb6227fc",
+    "/Proyecto-Electric-Angular/assets/img/productos/camaras.jpg": "d821e5579e511149299510c42f58ac9b13b894f7",
+    "/Proyecto-Electric-Angular/assets/img/productos/ethernet.jpg": "6bf4217e7820e9ae9af33df3433ecfdde304f72f",
+    "/Proyecto-Electric-Angular/assets/img/productos/extencion.jpg": "9bac34d04447725b711affba17f2d749b2f4e809",
+    "/Proyecto-Electric-Angular/assets/img/productos/foco-led.jpg": "dc76c55f722a89b2721174308ae8ee1a21508b27",
+    "/Proyecto-Electric-Angular/assets/img/productos/foco-sensor.jpg": "304cbaf2180f99e6504680c31d13ccd00e142f4e",
+    "/Proyecto-Electric-Angular/assets/img/productos/hdmi.jpg": "9dfaa873d100db1f9fe96f0a8338e76f7d93c76b",
+    "/Proyecto-Electric-Angular/assets/img/productos/timbre.jpg": "9601a430e48be48552767566db122c1eacb9eb3e",
+    "/Proyecto-Electric-Angular/assets/img/productos/tira-led.jpg": "c8f021b276b873dbe383614c8ec1f9f0ac80b873",
+    "/Proyecto-Electric-Angular/assets/img/productos/undefined.jpg": "be9876b1ae2d3a7ff1068ec8083543add4c6a95d",
+    "/Proyecto-Electric-Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/Proyecto-Electric-Angular/index.html": "a08babf530b29cbe5f6e97fc17c5270b1aaa08f3",
+    "/Proyecto-Electric-Angular/main.bccd76d7b280a623.js": "16b9ce37b7805117ae5b8ac9a958b4f019f5d6aa",
+    "/Proyecto-Electric-Angular/manifest.webmanifest": "456a7325096439556b951727d8f6cefc825ae5f4",
+    "/Proyecto-Electric-Angular/polyfills.614030cf455115d1.js": "d02ce3926bf407979c97b690009a05a6cadfa10b",
+    "/Proyecto-Electric-Angular/runtime.56f83c9eacd08874.js": "b3c98dff5add0c0c2330bac027008a06544b7070",
+    "/Proyecto-Electric-Angular/scripts.ae04d07883bbf047.js": "3b34b4ae2f87d247c8d87278577387d24082e6bb",
+    "/Proyecto-Electric-Angular/styles.7e36cadaffd1a694.css": "0d35100f4a1b898a528e2468dd9182be90518868"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
