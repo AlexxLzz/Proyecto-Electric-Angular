@@ -1,27 +1,44 @@
-# ProyectoFinal
+# 🛒 Tienda de Electrónicos en Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Aplicación web desarrollada con **Angular** para simular una tienda en línea de electrónicos.  
+Permite **registro e inicio de sesión de usuarios**, y cuenta con un **modo administrador** para la gestión de productos.
 
-## Development server
+> Este proyecto fue desarrollado como parte de un trabajo universitario.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🔗
+- **Demo en vivo:** [Ver el proyecto desplegado](https://alexxlzz.github.io/Proyecto-Electric-Angular/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## Características
+- Registro e inicio de sesión de usuarios.
+- Lista de productos visible solo para usuarios registrados.
+- Cuenta de administrador con permisos para:
+  - Editar productos.
+  - Eliminar productos.
+- Persistencia de datos con **Firebase Cloud Firestore**.
+- Autenticación de usuarios con **Firebase Authentication**.
+- Implementado con **Angular + TypeScript**.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🛠 Tecnologías usadas
+- **Angular** (v16)
+- **TypeScript**
+- **Firebase Cloud Firestore** (Base de datos en la nube)
+- **Firebase Authentication** (Gestión de cuentas)
+- **HTML5, CSS3**
+- **Bootstrap*
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## Cuenta Admin
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Usuario: admin@gmail.com
+Contraseña: admin1
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+*(Actualmente las imágenes de productos no se muestran correctamente.)*
