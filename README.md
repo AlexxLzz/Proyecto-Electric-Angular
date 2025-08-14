@@ -21,6 +21,7 @@ Permite **registro e inicio de sesión de usuarios**, y cuenta con un **modo adm
 - Persistencia de datos con **Firebase Cloud Firestore**.
 - Autenticación de usuarios con **Firebase Authentication**.
 - Implementado con **Angular + TypeScript**.
+- En el apartado "sobre nosotros" podrá encontrar opciones de accesibilidad que le peritirán reproducir en sonido el texto en pantalla.
 
 ---
 
